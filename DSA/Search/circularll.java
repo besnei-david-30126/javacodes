@@ -1,5 +1,5 @@
 
-static Node addAfter(Node last, int data, int item)
+static  Node addAfter(Node last, int data, int item)
 {
 	if (last == null)
 		return null;
